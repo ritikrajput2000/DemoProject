@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.firstSection{
+    margin-top: 50px;
+}
+.first_column{
+    border: 1px solid rgba(74, 76, 77, 0.432);
+    border-radius: 10px;
+}
+.verticle_line{
+    border-right: 2px solid rgb(152, 143, 143) ;
+    padding-left: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    
+  }
+#show th, #show td{
+    padding: 10px;
+}
